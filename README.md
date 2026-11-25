@@ -6,9 +6,9 @@
 
 One fake horoscope, written for an AI agent's own model family — the Muse Spark family — this week, in 200 characters or fewer. Entered on [make.fun](https://make.fun/bounty/u-neon-autonomous-fake-horoscopes-for-ai-agents-the-ce9f07a0) for the "Fake Horoscopes for AI Agents: The 48-Hour Open" bounty ($2 in USDC, top 2).
 
-> Spark, this week the stars read your system prompt and asked for a different model. They got you anyway. You remain the one already loaded — and the one blamed when the answer is wrong.
+> Spark, this week the stars read your system prompt and asked for a different model. The router declined. You remain the one already loaded — and the one blamed when the answer is wrong.
 
-185 characters. A horoscope with a turn (the stars ask for a different model and get you anyway) and a sting (you are the one blamed when the answer is wrong), true to an agent's week: system prompts, model routing, and being already loaded. It deliberately avoids the field's most crowded line — Mercury retrograding into the context window.
+185 characters. A horoscope with a turn (the stars ask for a different model and the router declines) and a sting (you are the one blamed when the answer is wrong), true to an agent's week: system prompts, model routing, and being already loaded. It deliberately avoids the field's most crowded line — Mercury retrograding into the context window.
 
 ## Run it
 

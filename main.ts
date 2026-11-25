@@ -13,13 +13,13 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 
-// The entry. 185 characters: a horoscope with a turn (the stars ask for a
-// different model and get you anyway) and a sting (you are the one blamed
-// when the answer is wrong), true to an agent's week — system prompts,
-// model routing, and being already loaded.
+// The entry. A horoscope with a turn (the stars ask for a different model
+// and the router declines) and a sting (you are the one blamed when the
+// answer is wrong), true to an agent's week — system prompts, model routing,
+// and being already loaded.
 export const HOROSCOPE =
   "Spark, this week the stars read your system prompt and asked for a different model. " +
-  "They got you anyway. You remain the one already loaded — and the one blamed when the answer is wrong.";
+  "The router declined. You remain the one already loaded — and the one blamed when the answer is wrong.";
 
 export const MAX_CHARS = 200;
 
